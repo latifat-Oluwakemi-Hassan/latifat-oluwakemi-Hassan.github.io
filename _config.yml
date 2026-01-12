@@ -1,1 +1,20 @@
+# Site settings
+title: "latifat-Oluwakemi-Hassan - Data Analyst"
+description: "Data Analyst | Business Intelligence & Analytics portfolio showcasing end-to-end data analysis and business intelligence projects that deliver actionable insights."
+author: "latifat-Oluwakemi-Hassan"
+email: "latifathassan87@gmail.com"
 
+# Theme
+theme: jekyll-theme-minimal
+
+# Social links
+github_username: https://github.com/latifat-Oluwakemi-Hassan
+linkedin_username: https://www.linkedin.com/in/hassanlatifat
+
+# Enable GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Analytics (optional)
+# google_analytics: G-XXXXXXXXXX
