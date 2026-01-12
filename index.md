@@ -11,6 +11,7 @@ title: Data Portfolio
 I’m a Data and Business Intelligence Analyst passionate about turning raw data into actionable insights. With expertise in SQL, Power BI, Excel, Google Spreadsheets, ETL pipelines, dashboards, and data visualization, I help businesses make data-driven decisions.
 
 ## Featured Projects
+
 [E-Commerce-End-to-End-Data-Analytics-Platform](https://github.com/latifat-Oluwakemi-Hassan/E-Commerce-End-to-End-Data-Analytics-Platform)
 *Developed a full end-to-end analytics platform to uncover customer behavior patterns, identify churn risks, and analyze key revenue drivers for e-commerce data.*
 
