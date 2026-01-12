@@ -12,12 +12,17 @@ permalink: /projects/ E-commerce-End-to-End Data Analytics Platform/
 
 ## Approach
 
-1.**Database Design & Integration:** Designed a relational database and integrated large-scale historical data for analysis.
-2.**ETL & EDA:** Built an automated ETL pipeline to extract, clean, transform, and load analytics-ready tables, enabling exploratory data analysis.
+1. **Database Design & Integration:** Designed a relational database and integrated large-scale historical data for analysis.
+
+2. **ETL & EDA:** Built an automated ETL pipeline to extract, clean, transform, and load analytics-ready tables, enabling exploratory data analysis.
+
 3. **Business Analysis:** Analyzed customer behavior, churn patterns, regional performance, product profitability, and operational bottlenecks.
+ 
 4. **Visualization:** Created interactive dashboards highlighting churn metrics, revenue trends, fulfillment efficiency, and payment failures.
+   
 5. **Modeling:** Developed a customer churn prediction model using RFM features (with recency as a key driver) and built a customer lifetime value (LTV) model to identify high-value customers.
-6 **Deployment & Automation:** Deployed a web application that allows users to upload a database and instantly access dashboards and insights, with automated generation of stakeholder-ready PDF reports.
+
+6 .**Deployment & Automation:** Deployed a web application that allows users to upload a database and instantly access dashboards and insights, with automated generation of stakeholder-ready PDF reports.
 
 ## Results
 
