@@ -4,7 +4,7 @@ layout: default
 title: Data Portfolio
 ---
 
-![Profile Photo](/images.jpg){: width="200px" .profile-pic }
+![Profile Photo](/image/images.jpg){: width="200px" .profile-pic }
 
 # Hi, I’m Latifat Oluwakemi Hassan 👋
 
