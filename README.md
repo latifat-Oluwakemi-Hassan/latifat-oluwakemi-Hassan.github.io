@@ -20,7 +20,7 @@ This repository contains the source code for my professional data portfolio, hos
 
 ## Project Structure
 
-- '_config.yml' - Site configuration
-- 'index.md' - Homepage content
-- 'projects/' - Example Project details page
-- 'images/' - Images and static files
+- _config.yml - Site configuration
+- index.md  - Homepage content
+- projects/  - Example Project details page
+- images/  - Images and static files
