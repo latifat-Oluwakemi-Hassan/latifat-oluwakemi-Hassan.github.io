@@ -17,6 +17,7 @@ I’m a Data and Business Intelligence Analyst passionate about turning raw data
 **Tools:** SQL, Python, Plotly, Pandas, ETL, Streamlit, Dash
 
 **Impact:** *Empowered the business to proactively address customer churn, optimize revenue strategies, and make faster, data-driven decisions.*
+
 [View Project →](https://github.com/latifat-Oluwakemi-Hassan/E-Commerce-End-to-End-Data-Analytics-Platform)
 
 
