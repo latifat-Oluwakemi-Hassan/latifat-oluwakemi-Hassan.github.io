@@ -37,7 +37,7 @@ I’m a Data and Business Intelligence Analyst passionate about turning raw data
   
 ## Contact
 
-- 📧 [latifathassan87@gmail.com](mailto:latifathassan87@gmail.com)
+-  📧 **Email:** [latifathassan87@gmail.com](mailto:latifathassan87@gmail.com)
 - 🔽 [Download CV](/images/CV.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hassanlatifat/)
 - 🐙 [GitHub](https://github.com/latifat-Oluwakemi-Hassan)
