@@ -7,7 +7,7 @@ title: Data Portfolio
 
 # Hi, I’m Latifat Hassan 👋
 
-I’m a Data and Business Intelligence Analyst passionate about turning raw data into actionable insights. With expertise in SQL, Power BI, Excel, Google Spreadsheets, ETL pipelines, dashboards, and data visualization, I help businesses make data-driven decisions.
+I’m a Data and Business Intelligence Analyst passionate about turning raw data into actionable insights. With solid foundation in SQL, Power BI, Excel, Google Spreadsheets, ETL pipelines, dashboards, and data visualization, I help businesses make data-driven decisions.
 
 ## Featured Projects
 
@@ -32,7 +32,7 @@ I’m a Data and Business Intelligence Analyst passionate about turning raw data
 - Languages: Python, SQL
 - Data Analysis: Data cleaning, Exploratory Data Analysis (EDA)
 - Visualization: Matplotlib, Seaborn, Plotly, Dash, Power BI
-- Cloud & Big Data: Google Cloud, ETL
+- Cloud & Big Data: ETL
 - Tools & IDEs: Jupyter, VS Code
 - Web Applications: Streamlit
   
