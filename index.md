@@ -5,7 +5,7 @@ title: Data Portfolio
 
 ![Profile Photo](/images/images.jpg){: width="200px" .profile-pic }
 
-# Hi, I’m Latifat Oluwakemi Hassan 👋
+# Hi, I’m Latifat Hassan 👋
 
 I’m a Data and Business Intelligence Analyst passionate about turning raw data into actionable insights. With expertise in SQL, Power BI, Excel, Google Spreadsheets, ETL pipelines, dashboards, and data visualization, I help businesses make data-driven decisions.
 
