@@ -11,7 +11,7 @@ I’m a Data and Business Intelligence Analyst passionate about turning raw data
 
 ## Featured Projects
 
-[E-Commerce-End-to-End-Data-Analytics-Platform](https://github.com/latifat-Oluwakemi-Hassan/E-Commerce-End-to-End-Data-Analytics-Platform)
+[E-Commerce-End-to-End-Data-Analytics-Platform](https://github.com/latifat-Oluwakemi-Hassan/E-Commerce-End-to-End-Data-Analytics-Platform/blob/main/Ecommerce_intergration.ipynb)
 
 *Developed a full end-to-end analytics platform to uncover customer behavior patterns, identify churn risks, and analyze key revenue drivers for e-commerce data.*
 
@@ -19,7 +19,7 @@ I’m a Data and Business Intelligence Analyst passionate about turning raw data
 
 **Impact:** *Empowered the business to proactively address customer churn, optimize revenue strategies, and make faster, data-driven decisions.*
 
-[View Project →](https://github.com/latifat-Oluwakemi-Hassan/E-Commerce-End-to-End-Data-Analytics-Platform)
+[View Project →](https://github.com/latifat-Oluwakemi-Hassan/E-Commerce-End-to-End-Data-Analytics-Platform/blob/main/Ecommerce_intergration.ipynb)
 
 
 ## Featured Web Applications
@@ -33,7 +33,7 @@ I’m a Data and Business Intelligence Analyst passionate about turning raw data
 - Data Analysis: Data cleaning, Exploratory Data Analysis (EDA)
 - Visualization: Matplotlib, Seaborn, Plotly, Dash, Power BI
 - Cloud & Big Data: ETL
-- Tools & IDEs: Jupyter, VS Code
+- Tools & IDEs: Jupyter, VS Code, Google cloud
 - Web Applications: Streamlit
   
 ## Contact
